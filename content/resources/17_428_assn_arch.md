@@ -7,6 +7,7 @@ description: This assignment is to visit two of three specified sites and find o
   Library at MIT.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/17-428-american-foreign-policy-theory-and-method-fall-2004/52d19794a42ff5981524e806b5150ac8_17_428_assn_arch.pdf
 file_type: application/pdf
+parent_uid: 4ab0c97c-f2d4-b8bc-7138-2fafa4435dcd
 resourcetype: Document
 title: 17_428_assn_arch.pdf
 uid: 52d19794-a42f-f598-1524-e806b5150ac8

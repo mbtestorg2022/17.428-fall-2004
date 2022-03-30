@@ -5,6 +5,7 @@ description: 'There are three options for this assignment: 1) A policy evaluativ
   a topic of the student''s choosing.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/17-428-american-foreign-policy-theory-and-method-fall-2004/56265c0ecb2b7f586840b3767e521639_17_428assn_ppr2.pdf
 file_type: application/pdf
+parent_uid: 4ab0c97c-f2d4-b8bc-7138-2fafa4435dcd
 resourcetype: Document
 title: 17_428assn_ppr2.pdf
 uid: 56265c0e-cb2b-7f58-6840-b3767e521639
